@@ -56,14 +56,15 @@ body {
 }
 
 .link{
-	border-radius:28px;
-	border:1px solid white;
-	cursor:pointer;
-	font-size:31px;
-	padding:10px 16px;
-	text-decoration:none;
+  border-radius:28px;
+  border:1px solid white;
+  cursor:pointer;
+  font-size:31px;
+  padding:10px 16px;
+  text-decoration:none;
   margin-top: auto;
   margin-bottom: auto;
+  text-decoration: none;
 }
 
 .link:hover {
